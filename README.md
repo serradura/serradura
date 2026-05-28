@@ -8,11 +8,11 @@ I build Ruby and Rails tools and write about software architecture. For years I'
 
 > How do you **`keep`** a codebase **`simple to change`** as it grows?
 
-I've been building with Ruby since 2010, these days on large production Rails systems. I also founded a community for people who like arguing about this stuff.
+I've been building with Ruby since 2010, these days on large production Rails systems. I also [founded a community](#-adarb) for people who like arguing about this stuff.
 
 The question has a new edge to it now. Good architecture used to be a favor you did for the next human who'd open the file. The next reader might be an AI agent instead, and it turns out the **`things that make code easy for a person`** to navigate are mostly the same things that **`make it cheap for an agent to reason about`**.
 
-**`That overlap is what most of my recent work is about`**. Right now I'm heads-down on [Rails Whey](https://github.com/railswhey) and [Solid Process](https://github.com/solid-process), the two projects I'd hand someone first. The rest lives across three GitHub orgs.
+That overlap is what most of my recent work is about: [Rails Whey](https://github.com/railswhey) and [Solid Process](https://github.com/solid-process) (which evolved from my earlier work on [μ-gems](https://github.com/u-gems)).
 
 <p align="center">
   <a href="https://github.com/railswhey/app"><img src="./assets/rails-whey.png" alt="Rails Whey" height="130"></a>
@@ -32,7 +32,7 @@ Every branch carries its own deep-dive README: the rule it applies, before-and-a
 
 ## ⚛️ Solid Process
 
-[solid-process](https://github.com/solid-process) is where the newer ideas live. It is **`a way to write business logic`** in Ruby and Rails **`that stays readable as the app scales`**. It's the evolution of [`u-case`](https://github.com/serradura/u-case): same goal, fewer compatibility constraints, and everything I've learned in the years since.
+[solid-process](https://github.com/solid-process) is where the newer ideas live. It is **`a way to write business logic`** in Ruby and Rails **`that stays readable as the app scales`**. It's the evolution of [`u-case`](https://github.com/u-gems/u-case): same goal, fewer compatibility constraints, and everything I've learned in the years since.
 
 ## 💎 μ-gems
 
@@ -40,7 +40,7 @@ Every branch carries its own deep-dive README: the rule it applies, before-and-a
 
 ## 👥 Ada.rb
 
-I founded and run [Ada.rb](https://linktr.ee/ada.rb), a community for people who care about **`fundamentals`**, **`architecture`**, **`design`**, and **`AI-assisted development`**. It is also a space where we organize meetups, bringing the community together to share knowledge and experiences.
+I founded and run [Ada.rb](https://adarb.org/), a community for people who care about **`fundamentals`**, **`architecture`**, **`design`**, and **`AI-assisted development`**. It is also a space where we organize meetups, bringing the community together to share knowledge and experiences.
 
 ## 🔗 Find me elsewhere
 
