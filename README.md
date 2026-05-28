@@ -32,17 +32,17 @@ Every branch carries its own deep-dive README: the rule it applies, before-and-a
 
 ## ⚛️ Solid Process
 
-[solid-process](https://github.com/solid-process) is where the newer ideas live. `solid-process` is a way to write business logic in Ruby and Rails that stays readable as the app scales. It's the evolution of `u-case`, my use-case library: same goal, fewer compatibility constraints, and everything I've learned in the years since.
+[solid-process](https://github.com/solid-process) is where the newer ideas live. `solid-process` is a way to write business logic in Ruby and Rails that stays readable as the app scales. It's the evolution of [`u-case`](https://github.com/serradura/u-case), my use-case library: same goal, fewer compatibility constraints, and everything I've learned in the years since.
 
-## μ-gems
+## 💎 μ-gems
 
 [u-gems](https://github.com/u-gems) is a collection of cohesive, composable Ruby gems with a functional heart. Each one doing a single job and stopping there.
 
-## Ada.rb
+## 👥 Ada.rb
 
 I founded and run [Ada.rb](https://linktr.ee/ada.rb), a community for people who care about Ruby design, architecture, and AI-assisted development. It's where a lot of these ideas get tested and picked apart before they turn into anything public.
 
-## Find me elsewhere
+## 🔗 Find me elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-serradura/)
 - [YouTube](https://www.youtube.com/@rodrigoserradura)
