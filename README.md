@@ -8,18 +8,20 @@ I build Ruby and Rails tools and write about software architecture. For years I'
 
 > How do you **`keep`** a codebase **`simple to change`** as it grows?
 
-I've been building with Ruby since 2010, these days on large production Rails systems. I also [founded a community](#-adarb) for people who like arguing about this stuff.
+I've been building with Ruby since 2010, these days on large production Rails systems. I also founded a community for people who like arguing about this stuff.
 
 The question has a new edge to it now. Good architecture used to be a favor you did for the next human who'd open the file. The next reader might be an AI agent instead, and it turns out the **`things that make code easy for a person`** to navigate are mostly the same things that **`make it cheap for an agent to reason about`**.
 
 That overlap is what most of my recent work is about: [Rails Whey](https://github.com/railswhey) and [Solid Process](https://github.com/solid-process) (which evolved from my earlier work on [μ-gems](https://github.com/u-gems)).
 
 <p align="center">
-  <a href="https://github.com/railswhey/app"><img src="./assets/rails-whey.png" alt="Rails Whey" height="130"></a>
+  <a href="https://github.com/railswhey/app" target="_blank"><img src="./assets/rails-whey.png" alt="Rails Whey" height="130"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/solid-process/solid-process"><img src="./assets/solid-process.png" alt="Solid Process" height="130"></a>
+  <a href="https://github.com/solid-process/solid-process" target="_blank"><img src="./assets/solid-process.png" alt="Solid Process" height="130"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/u-gems"><img src="./assets/u-gems-light.png" alt="u-gems" height="130"></a>
+  <a href="https://github.com/u-gems" target="_blank"><img src="./assets/u-gems-light.png" alt="u-gems" height="130"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://adarb.org" target="_blank"><img src="./assets/adarb.png" alt="Ada.rb" height="130"></a>
 </p>
 
 ## 🦾 Rails Whey
