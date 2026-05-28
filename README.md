@@ -17,7 +17,7 @@ Right now I'm heads-down on [Rails Whey](https://github.com/railswhey) and [Soli
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/solid-process/solid-process"><img src="./assets/solid-process.png" alt="Solid Process" height="104"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/u-gems"><img src="./assets/u-gems.jpg" alt="u-gems" height="104"></a>
+  <a href="https://github.com/u-gems"><img src="./assets/u-gems-light.png" alt="u-gems" height="104"></a>
 </p>
 
 ## 🦾 Rails Whey
