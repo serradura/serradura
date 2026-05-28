@@ -4,7 +4,9 @@
 
 ### Hi, I'm Rodrigo Serradura 👋
 
-I build Ruby and Rails tools and write about software architecture. For years I've been chasing one question: how do you keep a codebase easy to change as it grows?
+I build Ruby and Rails tools and write about software architecture. For years I've been chasing one question:
+
+> How do you keep a codebase easy for humans and AI agents to change as it grows?
 
 I've been building with Ruby since 2010, these days on large production Rails systems. I also founded a community for people who like arguing about this stuff.
 
@@ -26,7 +28,7 @@ Right now I'm heads-down on [Rails Whey](https://github.com/railswhey) and [Soli
 
 Every branch carries its own deep-dive README: the rule it applies, before-and-after numbers (lines of code, a Rubycritic score from 0 to 100), and a section on how the change plays for an AI coding agent. Read it front to back as one story, or jump to whichever branch matches the problem you're staring at right now.
 
-It's a gift to the community. Explore it, learn from it, challenge it.
+> It's a gift to the community. **Explore** it, **learn** from it, **challenge** it.
 
 ## ⚛️ Solid Process
 
