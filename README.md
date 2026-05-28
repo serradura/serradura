@@ -22,27 +22,21 @@ Right now I'm heads-down on [Rails Whey](https://github.com/railswhey) and [Soli
 
 ## 🦾 Rails Whey
 
-[railswhey](https://github.com/railswhey) is the one I'm proudest of: the same Rails app built 28 different ways. Each branch applies a single architectural rule, from one fat controller all the way to bounded contexts with separate databases, using nothing but what Rails ships with. No gems. No imported architecture.
+[railswhey](https://github.com/railswhey/app) is the one I'm proudest of: the same Rails app built 28 different ways. Each branch applies a single architectural rule, from one fat controller all the way to bounded contexts with separate databases, using nothing but what Rails ships with. No gems. No imported architecture.
 
 Every branch carries its own deep-dive README: the rule it applies, before-and-after numbers (lines of code, a Rubycritic score from 0 to 100), and a section on how the change plays for an AI coding agent. Read it front to back as one story, or jump to whichever branch matches the problem you're staring at right now.
 
 It's a gift to the community. Explore it, learn from it, challenge it.
 
-→ [github.com/railswhey/app](https://github.com/railswhey/app)
-
 ## ⚛️ Solid Process
 
 [solid-process](https://github.com/solid-process) is where the newer ideas live. `solid-process` is a way to write business logic in Ruby and Rails that stays readable as the app scales. It's the evolution of `u-case`, my use-case library: same goal, fewer compatibility constraints, and everything I've learned in the years since.
-
-→ [github.com/solid-process/solid-process](https://github.com/solid-process/solid-process)
 
 ## μ-gems
 
 [u-gems](https://github.com/u-gems) is a home for small Ruby libraries, each one doing a single job and stopping there. The best known is `u-case`: you write a use case as a small object with typed attributes and a `Success(...)` or `Failure(...)` result.
 
-`u-case` has been in production for years, so its public API is frozen. The contracts you depend on today won't move. Any next rethink of those abstractions happens over in Solid Process instead.
-
-→ [github.com/serradura/u-case](https://github.com/serradura/u-case)
+→ [`u-case`](https://github.com/serradura/u-case) has been in production for years, so its public API is frozen. The contracts you depend on today won't move. Any next rethink of those abstractions happens over in Solid Process instead.
 
 ## Ada.rb
 
