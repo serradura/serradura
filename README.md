@@ -44,4 +44,4 @@ I founded and run [Ada.rb](https://linktr.ee/ada.rb), a community for people who
 
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-serradura/)
 - [YouTube](https://www.youtube.com/@rodrigoserradura)
-- [X](https://x.com/serradura)
+- [X (Twitter)](https://x.com/serradura)
