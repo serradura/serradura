@@ -13,11 +13,11 @@ The question has a new edge to it now. Good architecture used to be a favor you 
 Right now I'm heads-down on [Rails Whey](https://github.com/railswhey) and [Solid Process](https://github.com/solid-process), the two projects I'd hand someone first. The rest lives across three GitHub orgs.
 
 <p align="center">
-  <a href="https://github.com/railswhey/app"><img src="./assets/rails-whey.png" alt="Rails Whey" height="104"></a>
+  <a href="https://github.com/railswhey/app"><img src="./assets/rails-whey.png" alt="Rails Whey" height="130"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/solid-process/solid-process"><img src="./assets/solid-process.png" alt="Solid Process" height="104"></a>
+  <a href="https://github.com/solid-process/solid-process"><img src="./assets/solid-process.png" alt="Solid Process" height="130"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/u-gems"><img src="./assets/u-gems-light.png" alt="u-gems" height="104"></a>
+  <a href="https://github.com/u-gems"><img src="./assets/u-gems-light.png" alt="u-gems" height="130"></a>
 </p>
 
 ## 🦾 Rails Whey
