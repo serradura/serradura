@@ -34,9 +34,7 @@ It's a gift to the community. Explore it, learn from it, challenge it.
 
 ## μ-gems
 
-[u-gems](https://github.com/u-gems) is a collection of Ruby libraries, each one doing a single job and stopping there.
-
-→ [`u-case`](https://github.com/serradura/u-case) has been in production for years, so its public API is frozen. The contracts you depend on today won't move. Any next rethink of those abstractions happens over in Solid Process instead.
+[u-gems](https://github.com/u-gems) is a collection of cohesive, composable Ruby gems with a functional heart. Each one doing a single job and stopping there.
 
 ## Ada.rb
 
